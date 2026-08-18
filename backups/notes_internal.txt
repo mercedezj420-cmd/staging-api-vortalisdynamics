@@ -1,0 +1,9 @@
+TODO before next sprint:
+- rotate staging creds
+- clean up this backups folder (autoindex should NOT be on in prod, ticket VD-113)
+- remind Harrow the HR export needs the CONFIDENTIAL banner on every page
+
+first flag fragment (don't lose this again):
+ZmxhZ19wYXJ0MV9nb29nbGVfZG9ya19tYXN0ZXI=
+
+-- R.O.
